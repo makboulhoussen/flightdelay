@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Airline-delay-Prediction App</title>
+	<link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/style.css') }}">
+	<script type="text/javascript">
+   		var airportListpath = "{{ url_for('static',filename='airports-elements.json') }}";
+	</script>
+	<script type="text/javascript" src="{{ url_for('static',filename='airportDataList.js') }}" async>
+	</script>
+	
+</head>
+
+
+<body>
+<h1> Delay Prediction </h1>
+<h2 align="left" style="padding-left:50px;" > Flight Information </h2>
+<div class="container">
+<form action = "/getdelay" method="POST">
+
+	<p><span style="padding-right:30px;">Departure City:</span><input id="origin" name="origin" type="text" list="airport-datalist" placeholder="e.g. city name" required/> 
+	<datalist id="airport-datalist"></datalist></p>
+	
+	<p><span style="padding-right:15px;">Destination City: </span><input id="dest" name="dest" type="text" list="airport-datalist" placeholder="e.g. city name" required/> 
+	<datalist id="airport-datalist"></datalist></p>
+	<p> Airline :   
+	<select name="unique_carrier">
+		<option value="AA">American Airlines </option>
+		<option value="AS">Alaska Airlines </option>
+		<option value="DL">Delta Air Lines </option>
+		<option value="EV">ExpressJet Lines </option>
+		<option value="F9">Frontier Lines </option>
+		<option value="HA">Hawaiian Lines </option>
+		<option value="B6">JetBlue Airways</option>
+		<option value="OO">SkyWest Airways</option>
+		<option value="NK">Spirit Lines </option>
+		<option value="WN">Southwest Airlines </option>
+		<option value="UA" selected>United Air Lines </option>
+		<option value="VX">Virgin Lines </option>
+	</select>
+	</p>
+	<p>Day :<input name="day" type ="number" value="1" min="1" max="31" required/> </p>
+	<p>Month :
+	<select name="month">
+		<option value="1" selected>January</option>
+		<option value="2">February</option>
+		<option value="3">March</option>
+		<option value="4">April</option>
+		<option value="5">May</option>
+		<option value="6">June</option>
+		<option value="7">July</option>
+		<option value="8">August</option>
+		<option value="9">September</option>
+		<option value="10">October</option>
+		<option value="11">November</option>
+		<option value="12">December</option>
+	</select>
+	</p>
+	<p>Year :
+	<select name="year">
+		<option value="2018" selected>2018</option>
+		<option value="2019">2019</option>
+		<option value="2020">2020</option>
+	</select>
+	</p>
+	<p>Scheduled departure Hour: <input name="dep_hour" type ="number" value="10" min="0" max="23" /> </p>
+	<p> <input type ="submit" value="submit" /> </p>
+</form>
+
+</div>
+
+
+</body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/style.css') }}">
+</head>
+
+<title>Airline-delay-Prediction App</title>
+<body>
+<h1> Delay Prediction </h1>
+
+{% if prediction is none %} <h3>No able to predict any delay based on the data you entered</h3>
+<p> {{ error }} </p>
+{% else %}
+<h3>
+Your flight is estimated to be {% if prediction > 0 : %} {{ prediction }} minutes late
+{% elif prediction == 0 : %} on time
+{% else %} {{ -prediction }} minutes in avance.{% endif %}
+</h3>
+{% endif %}
+<form  action="/">
+  <input type="submit" value="Go back!" >
+</form>
+</body>
+</html>

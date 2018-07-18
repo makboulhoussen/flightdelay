@@ -1,0 +1,1242 @@
+[
+  {
+    "AIRPORT_CODE": "BOS",
+    "DESCRIPTION": "Boston, MA: Logan International"
+  },
+  {
+    "AIRPORT_CODE": "JFK",
+    "DESCRIPTION": "New York, NY: John F. Kennedy International"
+  },
+  {
+    "AIRPORT_CODE": "LAX",
+    "DESCRIPTION": "Los Angeles, CA: Los Angeles International"
+  },
+  {
+    "AIRPORT_CODE": "DFW",
+    "DESCRIPTION": "Dallas Fort Worth, TX: Dallas Fort Worth International"
+  },
+  {
+    "AIRPORT_CODE": "OKC",
+    "DESCRIPTION": "Oklahoma City, OK: Will Rogers World"
+  },
+  {
+    "AIRPORT_CODE": "OGG",
+    "DESCRIPTION": "Kahului, HI: Kahului Airport"
+  },
+  {
+    "AIRPORT_CODE": "HNL",
+    "DESCRIPTION": "Honolulu, HI: Daniel K Inouye International"
+  },
+  {
+    "AIRPORT_CODE": "SFO",
+    "DESCRIPTION": "San Francisco, CA: San Francisco International"
+  },
+  {
+    "AIRPORT_CODE": "ORD",
+    "DESCRIPTION": "Chicago, IL: Chicago O 'Hare International"
+  },
+  {
+    "AIRPORT_CODE": "MIA",
+    "DESCRIPTION": "Miami, FL: Miami International"
+  },
+  {
+    "AIRPORT_CODE": "IAH",
+    "DESCRIPTION": "Houston, TX: George Bush Intercontinental Houston"
+  },
+  {
+    "AIRPORT_CODE": "DTW",
+    "DESCRIPTION": "Detroit, MI: Detroit Metro Wayne County"
+  },
+  {
+    "AIRPORT_CODE": "SEA",
+    "DESCRIPTION": "Seattle, WA: Seattle Tacoma International"
+  },
+  {
+    "AIRPORT_CODE": "MSP",
+    "DESCRIPTION": "Minneapolis, MN: Minneapolis-St Paul International"
+  },
+  {
+    "AIRPORT_CODE": "LGA",
+    "DESCRIPTION": "New York, NY: LaGuardia"
+  },
+  {
+    "AIRPORT_CODE": "ATL",
+    "DESCRIPTION": "Atlanta, GA: Hartsfield-Jackson Atlanta International"
+  },
+  {
+    "AIRPORT_CODE": "LAS",
+    "DESCRIPTION": "Las Vegas, NV: McCarran International"
+  },
+  {
+    "AIRPORT_CODE": "CLT",
+    "DESCRIPTION": "Charlotte, NC: Charlotte Douglas International"
+  },
+  {
+    "AIRPORT_CODE": "DCA",
+    "DESCRIPTION": "Washington, DC: Ronald Reagan Washington National"
+  },
+  {
+    "AIRPORT_CODE": "SAN",
+    "DESCRIPTION": "San Diego, CA: San Diego International"
+  },
+  {
+    "AIRPORT_CODE": "COS",
+    "DESCRIPTION": "Colorado Springs, CO: City of Colorado Springs Municipal"
+  },
+  {
+    "AIRPORT_CODE": "PDX",
+    "DESCRIPTION": "Portland, OR: Portland International"
+  },
+  {
+    "AIRPORT_CODE": "TUS",
+    "DESCRIPTION": "Tucson, AZ: Tucson International"
+  },
+  {
+    "AIRPORT_CODE": "SJC",
+    "DESCRIPTION": "San Jose, CA: Norman Y. Mineta San Jose International"
+  },
+  {
+    "AIRPORT_CODE": "DEN",
+    "DESCRIPTION": "Denver, CO: Denver International"
+  },
+  {
+    "AIRPORT_CODE": "PHX",
+    "DESCRIPTION": "Phoenix, AZ: Phoenix Sky Harbor International"
+  },
+  {
+    "AIRPORT_CODE": "SNA",
+    "DESCRIPTION": "Santa Ana, CA: John Wayne Airport-Orange County"
+  },
+  {
+    "AIRPORT_CODE": "MCO",
+    "DESCRIPTION": "Orlando, FL: Orlando International"
+  },
+  {
+    "AIRPORT_CODE": "AUS",
+    "DESCRIPTION": "Austin, TX: Austin - Bergstrom International"
+  },
+  {
+    "AIRPORT_CODE": "STL",
+    "DESCRIPTION": "St. Louis, MO: St Louis Lambert International"
+  },
+  {
+    "AIRPORT_CODE": "KOA",
+    "DESCRIPTION": "Kona, HI: Kona International Airport at Keahole"
+  },
+  {
+    "AIRPORT_CODE": "MEM",
+    "DESCRIPTION": "Memphis, TN: Memphis International"
+  },
+  {
+    "AIRPORT_CODE": "SLC",
+    "DESCRIPTION": "Salt Lake City, UT: Salt Lake City International"
+  },
+  {
+    "AIRPORT_CODE": "PHL",
+    "DESCRIPTION": "Philadelphia, PA: Philadelphia International"
+  },
+  {
+    "AIRPORT_CODE": "LIH",
+    "DESCRIPTION": "Lihue, HI: Lihue Airport"
+  },
+  {
+    "AIRPORT_CODE": "MCI",
+    "DESCRIPTION": "Kansas City, MO: Kansas City International"
+  },
+  {
+    "AIRPORT_CODE": "JAX",
+    "DESCRIPTION": "Jacksonville, FL: Jacksonville International"
+  },
+  {
+    "AIRPORT_CODE": "MSY",
+    "DESCRIPTION": "New Orleans, LA: Louis Armstrong New Orleans International"
+  },
+  {
+    "AIRPORT_CODE": "IAD",
+    "DESCRIPTION": "Washington, DC: Washington Dulles International"
+  },
+  {
+    "AIRPORT_CODE": "SJU",
+    "DESCRIPTION": "San Juan, PR: Luis Munoz Marin International"
+  },
+  {
+    "AIRPORT_CODE": "ORF",
+    "DESCRIPTION": "Norfolk, VA: Norfolk International"
+  },
+  {
+    "AIRPORT_CODE": "ABQ",
+    "DESCRIPTION": "Albuquerque, NM: Albuquerque International Sunport"
+  },
+  {
+    "AIRPORT_CODE": "FLL",
+    "DESCRIPTION": "Fort Lauderdale, FL: Fort Lauderdale-Hollywood International"
+  },
+  {
+    "AIRPORT_CODE": "IND",
+    "DESCRIPTION": "Indianapolis, IN: Indianapolis International"
+  },
+  {
+    "AIRPORT_CODE": "SAT",
+    "DESCRIPTION": "San Antonio, TX: San Antonio International"
+  },
+  {
+    "AIRPORT_CODE": "EWR",
+    "DESCRIPTION": "Newark, NJ: Newark Liberty International"
+  },
+  {
+    "AIRPORT_CODE": "BWI",
+    "DESCRIPTION": "Baltimore, MD: Baltimore Washington International Thurgood Marshall"
+  },
+  {
+    "AIRPORT_CODE": "RDU",
+    "DESCRIPTION": "Raleigh Durham, NC: Raleigh-Durham International"
+  },
+  {
+    "AIRPORT_CODE": "TPA",
+    "DESCRIPTION": "Tampa, FL: Tampa International"
+  },
+  {
+    "AIRPORT_CODE": "ONT",
+    "DESCRIPTION": "Ontario, CA: Ontario International"
+  },
+  {
+    "AIRPORT_CODE": "TUL",
+    "DESCRIPTION": "Tulsa, OK: Tulsa International"
+  },
+  {
+    "AIRPORT_CODE": "BNA",
+    "DESCRIPTION": "Nashville, TN: Nashville International"
+  },
+  {
+    "AIRPORT_CODE": "SMF",
+    "DESCRIPTION": "Sacramento, CA: Sacramento International"
+  },
+  {
+    "AIRPORT_CODE": "DSM",
+    "DESCRIPTION": "Des Moines, IA: Des Moines International"
+  },
+  {
+    "AIRPORT_CODE": "RNO",
+    "DESCRIPTION": "Reno, NV: Reno Tahoe International"
+  },
+  {
+    "AIRPORT_CODE": "DAY",
+    "DESCRIPTION": "Dayton, OH: James M Cox Dayton International"
+  },
+  {
+    "AIRPORT_CODE": "BDL",
+    "DESCRIPTION": "Hartford, CT: Bradley International"
+  },
+  {
+    "AIRPORT_CODE": "FAT",
+    "DESCRIPTION": "Fresno, CA: Fresno Yosemite International"
+  },
+  {
+    "AIRPORT_CODE": "OMA",
+    "DESCRIPTION": "Omaha, NE: Eppley Airfield"
+  },
+  {
+    "AIRPORT_CODE": "MKE",
+    "DESCRIPTION": "Milwaukee, WI: General Mitchell International"
+  },
+  {
+    "AIRPORT_CODE": "SDF",
+    "DESCRIPTION": "Louisville, KY: Louisville International-Standiford Field"
+  },
+  {
+    "AIRPORT_CODE": "PIT",
+    "DESCRIPTION": "Pittsburgh, PA: Pittsburgh International"
+  },
+  {
+    "AIRPORT_CODE": "RSW",
+    "DESCRIPTION": "Fort Myers, FL: Southwest Florida International"
+  },
+  {
+    "AIRPORT_CODE": "CMH",
+    "DESCRIPTION": "Columbus, OH: John Glenn Columbus International"
+  },
+  {
+    "AIRPORT_CODE": "STT",
+    "DESCRIPTION": "Charlotte Amalie, VI: Cyril E King"
+  },
+  {
+    "AIRPORT_CODE": "STX",
+    "DESCRIPTION": "Christiansted, VI: Henry E. Rohlsen"
+  },
+  {
+    "AIRPORT_CODE": "PBI",
+    "DESCRIPTION": "West Palm Beach Palm Beach, FL: Palm Beach International"
+  },
+  {
+    "AIRPORT_CODE": "ELP",
+    "DESCRIPTION": "El Paso, TX: El Paso International"
+  },
+  {
+    "AIRPORT_CODE": "PSP",
+    "DESCRIPTION": "Palm Springs, CA: Palm Springs International"
+  },
+  {
+    "AIRPORT_CODE": "ICT",
+    "DESCRIPTION": "Wichita, KS: Wichita Dwight D Eisenhower National"
+  },
+  {
+    "AIRPORT_CODE": "AMA",
+    "DESCRIPTION": "Amarillo, TX: Rick Husband Amarillo International"
+  },
+  {
+    "AIRPORT_CODE": "PNS",
+    "DESCRIPTION": "Pensacola, FL: Pensacola International"
+  },
+  {
+    "AIRPORT_CODE": "CLE",
+    "DESCRIPTION": "Cleveland, OH: Cleveland-Hopkins International"
+  },
+  {
+    "AIRPORT_CODE": "XNA",
+    "DESCRIPTION": "Fayetteville, AR: Northwest Arkansas Regional"
+  },
+  {
+    "AIRPORT_CODE": "MFE",
+    "DESCRIPTION": "Mission McAllen Edinburg, TX: McAllen Miller International"
+  },
+  {
+    "AIRPORT_CODE": "RIC",
+    "DESCRIPTION": "Richmond, VA: Richmond International"
+  },
+  {
+    "AIRPORT_CODE": "HOU",
+    "DESCRIPTION": "Houston, TX: William P Hobby"
+  },
+  {
+    "AIRPORT_CODE": "OAK",
+    "DESCRIPTION": "Oakland, CA: Metropolitan Oakland International"
+  },
+  {
+    "AIRPORT_CODE": "JAC",
+    "DESCRIPTION": "Jackson, WY: Jackson Hole"
+  },
+  {
+    "AIRPORT_CODE": "EGE",
+    "DESCRIPTION": "Eagle, CO: Eagle County Regional"
+  },
+  {
+    "AIRPORT_CODE": "PVD",
+    "DESCRIPTION": "Providence, RI: Theodore Francis Green State"
+  },
+  {
+    "AIRPORT_CODE": "BUF",
+    "DESCRIPTION": "Buffalo, NY: Buffalo Niagara International"
+  },
+  {
+    "AIRPORT_CODE": "ILM",
+    "DESCRIPTION": "Wilmington, NC: Wilmington International"
+  },
+  {
+    "AIRPORT_CODE": "SYR",
+    "DESCRIPTION": "Syracuse, NY: Syracuse Hancock International"
+  },
+  {
+    "AIRPORT_CODE": "MDT",
+    "DESCRIPTION": "Harrisburg, PA: Harrisburg International"
+  },
+  {
+    "AIRPORT_CODE": "CHS",
+    "DESCRIPTION": "Charleston, SC: Charleston AFB International"
+  },
+  {
+    "AIRPORT_CODE": "ALB",
+    "DESCRIPTION": "Albany, NY: Albany International"
+  },
+  {
+    "AIRPORT_CODE": "PWM",
+    "DESCRIPTION": "Portland, ME: Portland International Jetport"
+  },
+  {
+    "AIRPORT_CODE": "GSO",
+    "DESCRIPTION": "Greensboro High Point, NC: Piedmont Triad International"
+  },
+  {
+    "AIRPORT_CODE": "ROC",
+    "DESCRIPTION": "Rochester, NY: Greater Rochester International"
+  },
+  {
+    "AIRPORT_CODE": "BOI",
+    "DESCRIPTION": "Boise, ID: Boise Air Terminal"
+  },
+  {
+    "AIRPORT_CODE": "GEG",
+    "DESCRIPTION": "Spokane, WA: Spokane International"
+  },
+  {
+    "AIRPORT_CODE": "LBB",
+    "DESCRIPTION": "Lubbock, TX: Lubbock Preston Smith International"
+  },
+  {
+    "AIRPORT_CODE": "ANC",
+    "DESCRIPTION": "Anchorage, AK: Ted Stevens Anchorage International"
+  },
+  {
+    "AIRPORT_CODE": "ADQ",
+    "DESCRIPTION": "Kodiak, AK: Kodiak Airport"
+  },
+  {
+    "AIRPORT_CODE": "BET",
+    "DESCRIPTION": "Bethel, AK: Bethel Airport"
+  },
+  {
+    "AIRPORT_CODE": "BRW",
+    "DESCRIPTION": "Barrow, AK: Wiley Post Will Rogers Memorial"
+  },
+  {
+    "AIRPORT_CODE": "SCC",
+    "DESCRIPTION": "Deadhorse, AK: Deadhorse Airport"
+  },
+  {
+    "AIRPORT_CODE": "FAI",
+    "DESCRIPTION": "Fairbanks, AK: Fairbanks International"
+  },
+  {
+    "AIRPORT_CODE": "SIT",
+    "DESCRIPTION": "Sitka, AK: Sitka Rocky Gutierrez"
+  },
+  {
+    "AIRPORT_CODE": "JNU",
+    "DESCRIPTION": "Juneau, AK: Juneau International"
+  },
+  {
+    "AIRPORT_CODE": "KTN",
+    "DESCRIPTION": "Ketchikan, AK: Ketchikan International"
+  },
+  {
+    "AIRPORT_CODE": "CDV",
+    "DESCRIPTION": "Cordova, AK: Merle K Mudhole Smith"
+  },
+  {
+    "AIRPORT_CODE": "YAK",
+    "DESCRIPTION": "Yakutat, AK: Yakutat Airport"
+  },
+  {
+    "AIRPORT_CODE": "WRG",
+    "DESCRIPTION": "Wrangell, AK: Wrangell Airport"
+  },
+  {
+    "AIRPORT_CODE": "PSG",
+    "DESCRIPTION": "Petersburg, AK: Petersburg James A Johnson"
+  },
+  {
+    "AIRPORT_CODE": "OME",
+    "DESCRIPTION": "Nome, AK: Nome Airport"
+  },
+  {
+    "AIRPORT_CODE": "OTZ",
+    "DESCRIPTION": "Kotzebue, AK: Ralph Wien Memorial"
+  },
+  {
+    "AIRPORT_CODE": "ADK",
+    "DESCRIPTION": "Adak Island, AK: Adak"
+  },
+  {
+    "AIRPORT_CODE": "BUR",
+    "DESCRIPTION": "Burbank, CA: Bob Hope"
+  },
+  {
+    "AIRPORT_CODE": "LGB",
+    "DESCRIPTION": "Long Beach, CA: Long Beach Airport"
+  },
+  {
+    "AIRPORT_CODE": "BTV",
+    "DESCRIPTION": "Burlington, VT: Burlington International"
+  },
+  {
+    "AIRPORT_CODE": "HPN",
+    "DESCRIPTION": "White Plains, NY: Westchester County"
+  },
+  {
+    "AIRPORT_CODE": "SRQ",
+    "DESCRIPTION": "Sarasota Bradenton, FL: Sarasota Bradenton International"
+  },
+  {
+    "AIRPORT_CODE": "SWF",
+    "DESCRIPTION": "Newburgh Poughkeepsie, NY: Stewart International"
+  },
+  {
+    "AIRPORT_CODE": "DAB",
+    "DESCRIPTION": "Daytona Beach, FL: Daytona Beach International"
+  },
+  {
+    "AIRPORT_CODE": "SAV",
+    "DESCRIPTION": "Savannah, GA: Savannah Hilton Head International"
+  },
+  {
+    "AIRPORT_CODE": "ORH",
+    "DESCRIPTION": "Worcester, MA: Worcester Regional"
+  },
+  {
+    "AIRPORT_CODE": "ACK",
+    "DESCRIPTION": "Nantucket, MA: Nantucket Memorial"
+  },
+  {
+    "AIRPORT_CODE": "MVY",
+    "DESCRIPTION": "Martha 's Vineyard, MA: Martha 's Vineyard Airport"
+  },
+  {
+    "AIRPORT_CODE": "BQN",
+    "DESCRIPTION": "Aguadilla, PR: Rafael Hernandez"
+  },
+  {
+    "AIRPORT_CODE": "PSE",
+    "DESCRIPTION": "Ponce, PR: Mercedita"
+  },
+  {
+    "AIRPORT_CODE": "HYA",
+    "DESCRIPTION": "Hyannis, MA: Barnstable Municipal-Boardman Polando Field"
+  },
+  {
+    "AIRPORT_CODE": "TLH",
+    "DESCRIPTION": "Tallahassee, FL: Tallahassee International"
+  },
+  {
+    "AIRPORT_CODE": "BHM",
+    "DESCRIPTION": "Birmingham, AL: Birmingham-Shuttlesworth International"
+  },
+  {
+    "AIRPORT_CODE": "ATW",
+    "DESCRIPTION": "Appleton, WI: Appleton International"
+  },
+  {
+    "AIRPORT_CODE": "SHV",
+    "DESCRIPTION": "Shreveport, LA: Shreveport Regional"
+  },
+  {
+    "AIRPORT_CODE": "GRB",
+    "DESCRIPTION": "Green Bay, WI: Green Bay Austin Straubel International"
+  },
+  {
+    "AIRPORT_CODE": "HSV",
+    "DESCRIPTION": "Huntsville, AL: Huntsville International-Carl T Jones Field"
+  },
+  {
+    "AIRPORT_CODE": "GSP",
+    "DESCRIPTION": "Greer, SC: Greenville-Spartanburg International"
+  },
+  {
+    "AIRPORT_CODE": "AVL",
+    "DESCRIPTION": "Asheville, NC: Asheville Regional"
+  },
+  {
+    "AIRPORT_CODE": "BZN",
+    "DESCRIPTION": "Bozeman, MT: Bozeman Yellowstone International"
+  },
+  {
+    "AIRPORT_CODE": "GRR",
+    "DESCRIPTION": "Grand Rapids, MI: Gerald R. Ford International"
+  },
+  {
+    "AIRPORT_CODE": "MDW",
+    "DESCRIPTION": "Chicago, IL: Chicago Midway International"
+  },
+  {
+    "AIRPORT_CODE": "ROA",
+    "DESCRIPTION": "Roanoke, VA: Roanoke Blacksburg Regional Woodrum Field"
+  },
+  {
+    "AIRPORT_CODE": "MSN",
+    "DESCRIPTION": "Madison, WI: Dane County Regional-Truax Field"
+  },
+  {
+    "AIRPORT_CODE": "TYS",
+    "DESCRIPTION": "Knoxville, TN: McGhee Tyson"
+  },
+  {
+    "AIRPORT_CODE": "CVG",
+    "DESCRIPTION": "Cincinnati, OH: Cincinnati Northern Kentucky International"
+  },
+  {
+    "AIRPORT_CODE": "CHA",
+    "DESCRIPTION": "Chattanooga, TN: Lovell Field"
+  },
+  {
+    "AIRPORT_CODE": "FAR",
+    "DESCRIPTION": "Fargo, ND: Hector International"
+  },
+  {
+    "AIRPORT_CODE": "FSD",
+    "DESCRIPTION": "Sioux Falls, SD: Joe Foss Field"
+  },
+  {
+    "AIRPORT_CODE": "JAN",
+    "DESCRIPTION": "Jackson Vicksburg, MS: Jackson Medgar Wiley Evers International"
+  },
+  {
+    "AIRPORT_CODE": "BIS",
+    "DESCRIPTION": "Bismarck Mandan, ND: Bismarck Municipal"
+  },
+  {
+    "AIRPORT_CODE": "FNT",
+    "DESCRIPTION": "Flint, MI: Bishop International"
+  },
+  {
+    "AIRPORT_CODE": "AVP",
+    "DESCRIPTION": "Scranton Wilkes-Barre, PA: Wilkes Barre Scranton International"
+  },
+  {
+    "AIRPORT_CODE": "GPT",
+    "DESCRIPTION": "Gulfport Biloxi, MS: Gulfport-Biloxi International"
+  },
+  {
+    "AIRPORT_CODE": "BIL",
+    "DESCRIPTION": "Billings, MT: Billings Logan International"
+  },
+  {
+    "AIRPORT_CODE": "CAE",
+    "DESCRIPTION": "Columbia, SC: Columbia Metropolitan"
+  },
+  {
+    "AIRPORT_CODE": "LEX",
+    "DESCRIPTION": "Lexington, KY: Blue Grass"
+  },
+  {
+    "AIRPORT_CODE": "LIT",
+    "DESCRIPTION": "Little Rock, AR: Bill and Hillary Clinton Nat Adams Field"
+  },
+  {
+    "AIRPORT_CODE": "TVC",
+    "DESCRIPTION": "Traverse City, MI: Cherry Capital"
+  },
+  {
+    "AIRPORT_CODE": "CAK",
+    "DESCRIPTION": "Akron, OH: Akron-Canton Regional"
+  },
+  {
+    "AIRPORT_CODE": "ECP",
+    "DESCRIPTION": "Panama City, FL: Northwest Florida Beaches International"
+  },
+  {
+    "AIRPORT_CODE": "MYR",
+    "DESCRIPTION": "Myrtle Beach, SC: Myrtle Beach International"
+  },
+  {
+    "AIRPORT_CODE": "MSO",
+    "DESCRIPTION": "Missoula, MT: Missoula International"
+  },
+  {
+    "AIRPORT_CODE": "SGF",
+    "DESCRIPTION": "Springfield, MO: Springfield-Branson National"
+  },
+  {
+    "AIRPORT_CODE": "MLB",
+    "DESCRIPTION": "Melbourne, FL: Melbourne International"
+  },
+  {
+    "AIRPORT_CODE": "CHO",
+    "DESCRIPTION": "Charlottesville, VA: Charlottesville Albemarle"
+  },
+  {
+    "AIRPORT_CODE": "MHT",
+    "DESCRIPTION": "Manchester, NH: Manchester-Boston Regional"
+  },
+  {
+    "AIRPORT_CODE": "RAP",
+    "DESCRIPTION": "Rapid City, SD: Rapid City Regional"
+  },
+  {
+    "AIRPORT_CODE": "EYW",
+    "DESCRIPTION": "Key West, FL: Key West International"
+  },
+  {
+    "AIRPORT_CODE": "GNV",
+    "DESCRIPTION": "Gainesville, FL: Gainesville Regional"
+  },
+  {
+    "AIRPORT_CODE": "DAL",
+    "DESCRIPTION": "Dallas, TX: Dallas Love Field"
+  },
+  {
+    "AIRPORT_CODE": "PSC",
+    "DESCRIPTION": "Pasco Kennewick Richland, WA: Tri Cities"
+  },
+  {
+    "AIRPORT_CODE": "PHF",
+    "DESCRIPTION": "Newport News Williamsburg, VA: Newport News Williamsburg International"
+  },
+  {
+    "AIRPORT_CODE": "OAJ",
+    "DESCRIPTION": "Jacksonville Camp Lejeune, NC: Albert J Ellis"
+  },
+  {
+    "AIRPORT_CODE": "FCA",
+    "DESCRIPTION": "Kalispell, MT: Glacier Park International"
+  },
+  {
+    "AIRPORT_CODE": "BMI",
+    "DESCRIPTION": "Bloomington Normal, IL: Central Illinois Regional"
+  },
+  {
+    "AIRPORT_CODE": "MOB",
+    "DESCRIPTION": "Mobile, AL: Mobile Regional"
+  },
+  {
+    "AIRPORT_CODE": "VPS",
+    "DESCRIPTION": "Valparaiso, FL: Eglin AFB Destin Fort Walton Beach"
+  },
+  {
+    "AIRPORT_CODE": "EVV",
+    "DESCRIPTION": "Evansville, IN: Evansville Regional"
+  },
+  {
+    "AIRPORT_CODE": "AGS",
+    "DESCRIPTION": "Augusta, GA: Augusta Regional at Bush Field"
+  },
+  {
+    "AIRPORT_CODE": "BTR",
+    "DESCRIPTION": "Baton Rouge, LA: Baton Rouge Metropolitan Ryan Field"
+  },
+  {
+    "AIRPORT_CODE": "CRW",
+    "DESCRIPTION": "Charleston Dunbar, WV: Yeager"
+  },
+  {
+    "AIRPORT_CODE": "TRI",
+    "DESCRIPTION": "Bristol Johnson City Kingsport, TN: Tri Cities"
+  },
+  {
+    "AIRPORT_CODE": "BGR",
+    "DESCRIPTION": "Bangor, ME: Bangor International"
+  },
+  {
+    "AIRPORT_CODE": "FAY",
+    "DESCRIPTION": "Fayetteville, NC: Fayetteville Regional Grannis Field"
+  },
+  {
+    "AIRPORT_CODE": "ABE",
+    "DESCRIPTION": "Allentown Bethlehem Easton, PA: Lehigh Valley International"
+  },
+  {
+    "AIRPORT_CODE": "LFT",
+    "DESCRIPTION": "Lafayette, LA: Lafayette Regional Paul Fournet Field"
+  },
+  {
+    "AIRPORT_CODE": "UST",
+    "DESCRIPTION": "St. Augustine, FL: Northeast Florida Regional"
+  },
+  {
+    "AIRPORT_CODE": "CID",
+    "DESCRIPTION": "Cedar Rapids Iowa City, IA: The Eastern Iowa"
+  },
+  {
+    "AIRPORT_CODE": "TTN",
+    "DESCRIPTION": "Trenton, NJ: Trenton Mercer"
+  },
+  {
+    "AIRPORT_CODE": "ITO",
+    "DESCRIPTION": "Hilo, HI: Hilo International"
+  },
+  {
+    "AIRPORT_CODE": "VLD",
+    "DESCRIPTION": "Valdosta, GA: Valdosta Regional"
+  },
+  {
+    "AIRPORT_CODE": "PPG",
+    "DESCRIPTION": "Pago Pago, TT: Pago Pago International"
+  },
+  {
+    "AIRPORT_CODE": "ACY",
+    "DESCRIPTION": "Atlantic City, NJ: Atlantic City International"
+  },
+  {
+    "AIRPORT_CODE": "PBG",
+    "DESCRIPTION": "Plattsburgh, NY: Plattsburgh International"
+  },
+  {
+    "AIRPORT_CODE": "IAG",
+    "DESCRIPTION": "Niagara Falls, NY: Niagara Falls International"
+  },
+  {
+    "AIRPORT_CODE": "LBE",
+    "DESCRIPTION": "Latrobe, PA: Arnold Palmer Regional"
+  },
+  {
+    "AIRPORT_CODE": "FLG",
+    "DESCRIPTION": "Flagstaff, AZ: Flagstaff Pulliam"
+  },
+  {
+    "AIRPORT_CODE": "GJT",
+    "DESCRIPTION": "Grand Junction, CO: Grand Junction Regional"
+  },
+  {
+    "AIRPORT_CODE": "RDM",
+    "DESCRIPTION": "Bend Redmond, OR: Roberts Field"
+  },
+  {
+    "AIRPORT_CODE": "DRO",
+    "DESCRIPTION": "Durango, CO: Durango La Plata County"
+  },
+  {
+    "AIRPORT_CODE": "BFL",
+    "DESCRIPTION": "Bakersfield, CA: Meadows Field"
+  },
+  {
+    "AIRPORT_CODE": "YUM",
+    "DESCRIPTION": "Yuma, AZ: Yuma MCAS Yuma International"
+  },
+  {
+    "AIRPORT_CODE": "SBA",
+    "DESCRIPTION": "Santa Barbara, CA: Santa Barbara Municipal"
+  },
+  {
+    "AIRPORT_CODE": "ROW",
+    "DESCRIPTION": "Roswell, NM: Roswell International Air Center"
+  },
+  {
+    "AIRPORT_CODE": "SBP",
+    "DESCRIPTION": "San Luis Obispo, CA: San Luis County Regional"
+  },
+  {
+    "AIRPORT_CODE": "MRY",
+    "DESCRIPTION": "Monterey, CA: Monterey Regional"
+  },
+  {
+    "AIRPORT_CODE": "ASE",
+    "DESCRIPTION": "Aspen, CO: Aspen Pitkin County Sardy Field"
+  },
+  {
+    "AIRPORT_CODE": "EUG",
+    "DESCRIPTION": "Eugene, OR: Mahlon Sweet Field"
+  },
+  {
+    "AIRPORT_CODE": "SUN",
+    "DESCRIPTION": "Sun Valley Hailey Ketchum, ID: Friedman Memorial"
+  },
+  {
+    "AIRPORT_CODE": "HLN",
+    "DESCRIPTION": "Helena, MT: Helena Regional"
+  },
+  {
+    "AIRPORT_CODE": "SBN",
+    "DESCRIPTION": "South Bend, IN: South Bend International"
+  },
+  {
+    "AIRPORT_CODE": "IDA",
+    "DESCRIPTION": "Idaho Falls, ID: Idaho Falls Regional"
+  },
+  {
+    "AIRPORT_CODE": "DLH",
+    "DESCRIPTION": "Duluth, MN: Duluth International"
+  },
+  {
+    "AIRPORT_CODE": "LNK",
+    "DESCRIPTION": "Lincoln, NE: Lincoln Airport"
+  },
+  {
+    "AIRPORT_CODE": "PIA",
+    "DESCRIPTION": "Peoria, IL: General Downing - Peoria International"
+  },
+  {
+    "AIRPORT_CODE": "AZO",
+    "DESCRIPTION": "Kalamazoo, MI: Kalamazoo Battle Creek International"
+  },
+  {
+    "AIRPORT_CODE": "LSE",
+    "DESCRIPTION": "La Crosse, WI: La Crosse Regional"
+  },
+  {
+    "AIRPORT_CODE": "FWA",
+    "DESCRIPTION": "Fort Wayne, IN: Fort Wayne International"
+  },
+  {
+    "AIRPORT_CODE": "GTF",
+    "DESCRIPTION": "Great Falls, MT: Great Falls International"
+  },
+  {
+    "AIRPORT_CODE": "MLI",
+    "DESCRIPTION": "Moline, IL: Quad City International"
+  },
+  {
+    "AIRPORT_CODE": "MFR",
+    "DESCRIPTION": "Medford, OR: Rogue Valley International - Medford"
+  },
+  {
+    "AIRPORT_CODE": "GFK",
+    "DESCRIPTION": "Grand Forks, ND: Grand Forks International"
+  },
+  {
+    "AIRPORT_CODE": "ISN",
+    "DESCRIPTION": "Williston, ND: Sloulin Field International"
+  },
+  {
+    "AIRPORT_CODE": "SPI",
+    "DESCRIPTION": "Springfield, IL: Abraham Lincoln Capital"
+  },
+  {
+    "AIRPORT_CODE": "DVL",
+    "DESCRIPTION": "Devils Lake, ND: Devils Lake Regional"
+  },
+  {
+    "AIRPORT_CODE": "JMS",
+    "DESCRIPTION": "Jamestown, ND: Jamestown Regional"
+  },
+  {
+    "AIRPORT_CODE": "CMX",
+    "DESCRIPTION": "Hancock Houghton, MI: Houghton County Memorial"
+  },
+  {
+    "AIRPORT_CODE": "OTH",
+    "DESCRIPTION": "North Bend Coos Bay, OR: Southwest Oregon Regional"
+  },
+  {
+    "AIRPORT_CODE": "MBS",
+    "DESCRIPTION": "Saginaw Bay City Midland, MI: MBS International"
+  },
+  {
+    "AIRPORT_CODE": "RKS",
+    "DESCRIPTION": "Rock Springs, WY: Rock Springs Sweetwater County"
+  },
+  {
+    "AIRPORT_CODE": "HYS",
+    "DESCRIPTION": "Hays, KS: Hays Regional"
+  },
+  {
+    "AIRPORT_CODE": "LAR",
+    "DESCRIPTION": "Laramie, WY: Laramie Regional"
+  },
+  {
+    "AIRPORT_CODE": "PAH",
+    "DESCRIPTION": "Paducah, KY: Barkley Regional"
+  },
+  {
+    "AIRPORT_CODE": "SGU",
+    "DESCRIPTION": "St. George, UT: St George Regional"
+  },
+  {
+    "AIRPORT_CODE": "GCC",
+    "DESCRIPTION": "Gillette, WY: Gillette Campbell County"
+  },
+  {
+    "AIRPORT_CODE": "MOT",
+    "DESCRIPTION": "Minot, ND: Minot International"
+  },
+  {
+    "AIRPORT_CODE": "MAF",
+    "DESCRIPTION": "Midland Odessa, TX: Midland International Air and Space Port"
+  },
+  {
+    "AIRPORT_CODE": "HDN",
+    "DESCRIPTION": "Hayden, CO: Yampa Valley"
+  },
+  {
+    "AIRPORT_CODE": "CWA",
+    "DESCRIPTION": "Mosinee, WI: Central Wisconsin"
+  },
+  {
+    "AIRPORT_CODE": "ACV",
+    "DESCRIPTION": "Arcata Eureka, CA: California Redwood Coast Humboldt County"
+  },
+  {
+    "AIRPORT_CODE": "MTJ",
+    "DESCRIPTION": "Montrose Delta, CO: Montrose Regional"
+  },
+  {
+    "AIRPORT_CODE": "CPR",
+    "DESCRIPTION": "Casper, WY: Casper Natrona County International"
+  },
+  {
+    "AIRPORT_CODE": "SCE",
+    "DESCRIPTION": "State College, PA: University Park"
+  },
+  {
+    "AIRPORT_CODE": "GUC",
+    "DESCRIPTION": "Gunnison, CO: Gunnison-Crested Butte Regional"
+  },
+  {
+    "AIRPORT_CODE": "RDD",
+    "DESCRIPTION": "Redding, CA: Redding Municipal"
+  },
+  {
+    "AIRPORT_CODE": "SMX",
+    "DESCRIPTION": "Santa Maria, CA: Santa Maria Public Capt. G. Allan Hancock Field"
+  },
+  {
+    "AIRPORT_CODE": "HRL",
+    "DESCRIPTION": "Harlingen San Benito, TX: Valley International"
+  },
+  {
+    "AIRPORT_CODE": "BRO",
+    "DESCRIPTION": "Brownsville, TX: Brownsville South Padre Island International"
+  },
+  {
+    "AIRPORT_CODE": "RHI",
+    "DESCRIPTION": "Rhinelander, WI: Rhinelander Oneida County"
+  },
+  {
+    "AIRPORT_CODE": "CDC",
+    "DESCRIPTION": "Cedar City, UT: Cedar City Regional"
+  },
+  {
+    "AIRPORT_CODE": "BRD",
+    "DESCRIPTION": "Brainerd, MN: Brainerd Lakes Regional"
+  },
+  {
+    "AIRPORT_CODE": "ABR",
+    "DESCRIPTION": "Aberdeen, SD: Aberdeen Regional"
+  },
+  {
+    "AIRPORT_CODE": "COD",
+    "DESCRIPTION": "Cody, WY: Yellowstone Regional"
+  },
+  {
+    "AIRPORT_CODE": "PLN",
+    "DESCRIPTION": "Pellston, MI: Pellston Regional Airport of Emmet County"
+  },
+  {
+    "AIRPORT_CODE": "EKO",
+    "DESCRIPTION": "Elko, NV: Elko Regional"
+  },
+  {
+    "AIRPORT_CODE": "HIB",
+    "DESCRIPTION": "Hibbing, MN: Range Regional"
+  },
+  {
+    "AIRPORT_CODE": "INL",
+    "DESCRIPTION": "International Falls, MN: Falls International Einarson Field"
+  },
+  {
+    "AIRPORT_CODE": "PIH",
+    "DESCRIPTION": "Pocatello, ID: Pocatello Regional"
+  },
+  {
+    "AIRPORT_CODE": "BTM",
+    "DESCRIPTION": "Butte, MT: Bert Mooney"
+  },
+  {
+    "AIRPORT_CODE": "LWS",
+    "DESCRIPTION": "Lewiston, ID: Lewiston Nez Perce County"
+  },
+  {
+    "AIRPORT_CODE": "ITH",
+    "DESCRIPTION": "Ithaca Cortland, NY: Ithaca Tompkins Regional"
+  },
+  {
+    "AIRPORT_CODE": "MQT",
+    "DESCRIPTION": "Marquette, MI: Sawyer International"
+  },
+  {
+    "AIRPORT_CODE": "BJI",
+    "DESCRIPTION": "Bemidji, MN: Bemidji Regional"
+  },
+  {
+    "AIRPORT_CODE": "IMT",
+    "DESCRIPTION": "Iron Mountain Kingsfd, MI: Ford"
+  },
+  {
+    "AIRPORT_CODE": "CIU",
+    "DESCRIPTION": "Sault Ste. Marie, MI: Chippewa County International"
+  },
+  {
+    "AIRPORT_CODE": "APN",
+    "DESCRIPTION": "Alpena, MI: Alpena County Regional"
+  },
+  {
+    "AIRPORT_CODE": "WYS",
+    "DESCRIPTION": "West Yellowstone, MT: Yellowstone"
+  },
+  {
+    "AIRPORT_CODE": "TWF",
+    "DESCRIPTION": "Twin Falls, ID: Joslin Field - Magic Valley Regional"
+  },
+  {
+    "AIRPORT_CODE": "ESC",
+    "DESCRIPTION": "Escanaba, MI: Delta County"
+  },
+  {
+    "AIRPORT_CODE": "BGM",
+    "DESCRIPTION": "Binghamton, NY: Greater Binghamton Edwin A. Link Field"
+  },
+  {
+    "AIRPORT_CODE": "LAN",
+    "DESCRIPTION": "Lansing, MI: Capital Region International"
+  },
+  {
+    "AIRPORT_CODE": "RST",
+    "DESCRIPTION": "Rochester, MN: Rochester International"
+  },
+  {
+    "AIRPORT_CODE": "EAU",
+    "DESCRIPTION": "Eau Claire, WI: Chippewa Valley Regional"
+  },
+  {
+    "AIRPORT_CODE": "MKG",
+    "DESCRIPTION": "Muskegon, MI: Muskegon County"
+  },
+  {
+    "AIRPORT_CODE": "CRP",
+    "DESCRIPTION": "Corpus Christi, TX: Corpus Christi International"
+  },
+  {
+    "AIRPORT_CODE": "CLL",
+    "DESCRIPTION": "College Station Bryan, TX: Easterwood Field"
+  },
+  {
+    "AIRPORT_CODE": "LCH",
+    "DESCRIPTION": "Lake Charles, LA: Lake Charles Regional"
+  },
+  {
+    "AIRPORT_CODE": "ERI",
+    "DESCRIPTION": "Erie, PA: Erie International Tom Ridge Field"
+  },
+  {
+    "AIRPORT_CODE": "AEX",
+    "DESCRIPTION": "Alexandria, LA: Alexandria International"
+  },
+  {
+    "AIRPORT_CODE": "BQK",
+    "DESCRIPTION": "Brunswick, GA: Brunswick Golden Isles"
+  },
+  {
+    "AIRPORT_CODE": "DHN",
+    "DESCRIPTION": "Dothan, AL: Dothan Regional"
+  },
+  {
+    "AIRPORT_CODE": "GUM",
+    "DESCRIPTION": "Guam, TT: Guam International"
+  },
+  {
+    "AIRPORT_CODE": "ISP",
+    "DESCRIPTION": "Islip, NY: Long Island MacArthur"
+  },
+  {
+    "AIRPORT_CODE": "MGM",
+    "DESCRIPTION": "Montgomery, AL: Montgomery Regional"
+  },
+  {
+    "AIRPORT_CODE": "TXK",
+    "DESCRIPTION": "Texarkana, AR: Texarkana Regional-Webb Field"
+  },
+  {
+    "AIRPORT_CODE": "GCK",
+    "DESCRIPTION": "Garden City, KS: Garden City Regional"
+  },
+  {
+    "AIRPORT_CODE": "LRD",
+    "DESCRIPTION": "Laredo, TX: Laredo International"
+  },
+  {
+    "AIRPORT_CODE": "ACT",
+    "DESCRIPTION": "Waco, TX: Waco Regional"
+  },
+  {
+    "AIRPORT_CODE": "LAW",
+    "DESCRIPTION": "Lawton Fort Sill, OK: Lawton-Fort Sill Regional"
+  },
+  {
+    "AIRPORT_CODE": "GRI",
+    "DESCRIPTION": "Grand Island, NE: Central Nebraska Regional"
+  },
+  {
+    "AIRPORT_CODE": "GGG",
+    "DESCRIPTION": "Longview, TX: East Texas Regional"
+  },
+  {
+    "AIRPORT_CODE": "MLU",
+    "DESCRIPTION": "Monroe, LA: Monroe Regional"
+  },
+  {
+    "AIRPORT_CODE": "SPS",
+    "DESCRIPTION": "Wichita Falls, TX: Sheppard AFB Wichita Falls Municipal"
+  },
+  {
+    "AIRPORT_CODE": "SJT",
+    "DESCRIPTION": "San Angelo, TX: San Angelo Regional Mathis Field"
+  },
+  {
+    "AIRPORT_CODE": "FSM",
+    "DESCRIPTION": "Fort Smith, AR: Fort Smith Regional"
+  },
+  {
+    "AIRPORT_CODE": "SAF",
+    "DESCRIPTION": "Santa Fe, NM: Santa Fe Municipal"
+  },
+  {
+    "AIRPORT_CODE": "MEI",
+    "DESCRIPTION": "Meridian, MS: Key Field"
+  },
+  {
+    "AIRPORT_CODE": "PIB",
+    "DESCRIPTION": "Hattiesburg Laurel, MS: Hattiesburg-Laurel Regional"
+  },
+  {
+    "AIRPORT_CODE": "GRK",
+    "DESCRIPTION": "Killeen, TX: Robert Gray AAF"
+  },
+  {
+    "AIRPORT_CODE": "HOB",
+    "DESCRIPTION": "Hobbs, NM: Lea County Regional"
+  },
+  {
+    "AIRPORT_CODE": "JLN",
+    "DESCRIPTION": "Joplin, MO: Joplin Regional"
+  },
+  {
+    "AIRPORT_CODE": "ABI",
+    "DESCRIPTION": "Abilene, TX: Abilene Regional"
+  },
+  {
+    "AIRPORT_CODE": "EWN",
+    "DESCRIPTION": "New Bern Morehead Beaufort, NC: Coastal Carolina Regional"
+  },
+  {
+    "AIRPORT_CODE": "CSG",
+    "DESCRIPTION": "Columbus, GA: Columbus Airport"
+  },
+  {
+    "AIRPORT_CODE": "ELM",
+    "DESCRIPTION": "Elmira Corning, NY: Elmira Corning Regional"
+  },
+  {
+    "AIRPORT_CODE": "ABY",
+    "DESCRIPTION": "Albany, GA: Southwest Georgia Regional"
+  },
+  {
+    "AIRPORT_CODE": "GTR",
+    "DESCRIPTION": "Columbus, MS: Golden Triangle Regional"
+  },
+  {
+    "AIRPORT_CODE": "GST",
+    "DESCRIPTION": "Gustavus, AK: Gustavus Airport"
+  },
+  {
+    "AIRPORT_CODE": "AKN",
+    "DESCRIPTION": "King Salmon, AK: King Salmon Airport"
+  },
+  {
+    "AIRPORT_CODE": "DLG",
+    "DESCRIPTION": "Dillingham, AK: Dillingham Airport"
+  },
+  {
+    "AIRPORT_CODE": "BPT",
+    "DESCRIPTION": "Beaumont Port Arthur, TX: Jack Brooks Regional"
+  },
+  {
+    "AIRPORT_CODE": "MHK",
+    "DESCRIPTION": "Manhattan Ft. Riley, KS: Manhattan Regional"
+  },
+  {
+    "AIRPORT_CODE": "BLI",
+    "DESCRIPTION": "Bellingham, WA: Bellingham International"
+  },
+  {
+    "AIRPORT_CODE": "TYR",
+    "DESCRIPTION": "Tyler, TX: Tyler Pounds Regional"
+  },
+  {
+    "AIRPORT_CODE": "PGD",
+    "DESCRIPTION": "Punta Gorda, FL: Punta Gorda Airport"
+  },
+  {
+    "AIRPORT_CODE": "MMH",
+    "DESCRIPTION": "Mammoth Lakes, CA: Mammoth Lakes Airport"
+  },
+  {
+    "AIRPORT_CODE": "SPN",
+    "DESCRIPTION": "Saipan, TT: Francisco C. Ada Saipan International"
+  }
+]
